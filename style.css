@@ -1,0 +1,50 @@
+#homepage {
+    background-color: rgb(255, 210, 253) !important;
+    width: 100%;
+}
+
+.album {
+    background-color: rgb(255, 210, 253) !important;
+    width: 100%;
+}
+
+.home-items {
+    width: 100%;
+}
+
+.card-img {
+    height: 450px;
+}
+
+.btn-primary {
+    background-color: black !important;
+    color: rgb(255, 210, 253) !important;
+    border: 0;
+}
+
+.btn-primary:hover {
+    background-color: white !important;
+    color: rgb(255, 210, 253) !important;
+}
+
+.button-text {
+    color: white;
+    text-decoration: none;
+}
+
+.button-text:hover {
+    background-color: white !important;
+    color: rgb(255, 210, 253) !important;
+}
+
+.btn-outline-secondary {
+    border-color: white !important;
+}
+
+.btn-outline-secondary:hover {
+    background-color: white;
+}
+
+#business-footer {
+    background-color:rgb(255, 210, 253);
+}
